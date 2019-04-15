@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>CyberSocUoL - Home</title>
+    <link rel="stylesheet" href="Style/Style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<body class="white">
+    <nav>
+        <div class="nav-wrapper white">
+          <a href="index.html"><img alt="logo image" src="Images/Logo.png" class="brand-logo" style="padding: 8px" height="60px" width="65px"/></a>
+          <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i style="color: black" class="material-icons">menu</i></a>
+          <ul id="nav-mobile" class="right hide-on-med-and-down">
+            <li><a style="color: black" href="index.html">Home</a></li>
+            <li><a style="color: black" href="AboutUs.html">About Us</a></li>
+            <li><a style="color: black" href="Events.html">Events</a></li>
+          </ul>
+        </div>
+    </nav>
+
+    <ul class="sidenav white" id="mobile-demo">
+        <li><a style="color: black" href="index.html">Home</a></li>
+        <li><a style="color: black" href="AboutUs.html">About Us</a></li>
+        <li><a style="color: black" href="Events.html">Events</a></li>
+    </ul>  
+    <div class="white divider"></div>
+
+    <div class="text-align: center">
+        <img style="padding: 20px" src="Images/Logo.png" width="400px">
+        <div id="bodydiv">
+            <div class="container">
+                <h1> Cyber Soc UoL </h1>
+                <h6> YnJhbmQgbmV3IHNpdGUgY29taW5nIHNvb24K </h6>
+                <p style="color: white"> The Official Cyber Security Society at The University of Liverpool </p>
+            </div>
+        <div class="container">
+            <br>
+            <div class="white divider"></div>
+            <!-- Countdown Timer -->
+            <br>
+            <br>
+
+            <div id="clockdiv"> 
+                <div> 
+                    <span class="days" id="day"></span> 
+                    <div class="smalltext">Days</div> 
+                </div> 
+                <div> 
+                    <span class="hours" id="hour"></span> 
+                    <div class="smalltext">Hours</div> 
+                </div> 
+                <div> 
+                    <span class="minutes" id="minute"></span> 
+                    <div class="smalltext">Minutes</div> 
+                </div> 
+                <div> 
+                    <span class="seconds" id="second"></span> 
+                    <div class="smalltext">Seconds</div> 
+                </div> 
+            </div> 
+  
+            <p id="demo"></p> 
+  
+            <script> 
+                var deadline = new Date("june 25, 2019 15:37:25").getTime(); 
+                
+                var x = setInterval(function() { 
+                
+                var now = new Date().getTime(); 
+                var t = deadline - now; 
+                var days = Math.floor(t / (1000 * 60 * 60 * 24)); 
+                var hours = Math.floor((t%(1000 * 60 * 60 * 24))/(1000 * 60 * 60)); 
+                var minutes = Math.floor((t % (1000 * 60 * 60)) / (1000 * 60)); 
+                var seconds = Math.floor((t % (1000 * 60)) / 1000); 
+                document.getElementById("day").innerHTML =days ; 
+                document.getElementById("hour").innerHTML =hours; 
+                document.getElementById("minute").innerHTML = minutes;  
+                document.getElementById("second").innerHTML =seconds;  
+                if (t < 0) { 
+                        clearInterval(x); 
+                        document.getElementById("demo").innerHTML = "TIME UP"; 
+                        document.getElementById("day").innerHTML ='0'; 
+                        document.getElementById("hour").innerHTML ='0'; 
+                        document.getElementById("minute").innerHTML ='0' ;  
+                        document.getElementById("second").innerHTML = '0'; } 
+                }, 1000); 
+            </script> 
+        <br>
+        <h5> Are you ready? </h5>
+            <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" style="width: 200px" class="twitter-share-button" data-size="large" data-text="CyberSocUoL" data-url="https://www.cybersoc.cf" data-via="cybersocuol" data-hashtags="CyberSecurity" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+       </div>
+    </div>
+
+    <br>
+    <br>
+
+    <div class="blue divider"></div>
+    <div style="text-align: center" id="footer" class="white">
+        <img alt="personal logo" src="Images/Logo.png" width="100px" style="border: 2px solid white; padding-top: 10px">
+        <p style="color: black; padding: 8px">
+            <a style="color: black; padding: 8px" href="index.html">Home</a> | 
+            <a style="color: black; padding: 8px" href="AboutUs.html">About Us </a> | 
+            <a style="color: black; padding: 8px" href="Events.html">Events</a> | 
+        </p>
+        <div class="blue divider"></div>
+        <p style="color: white; font-size: 20px; padding-top: 8px">
+            <a style="color: black; padding: 12px" href="https://www.twitter.com/cybersocuol">Twitter</a> | 
+            <a style="color: black; padding: 12px" href="https://www.github.com/cybersocuol">Github</a> |
+            <a style="color: black; padding: 12px" href="https://www.liverpoolguild.org/groups/cyber-security">Guild</a> 
+        </p>
+        <p style="padding-top: 15px; padding-bottom: 10px; font-size: 12px"> Cyber Soc UoL 2019 </p>
+    </div>
+
+</body>
+    <script src="https://code.jquery.com/jquery-3.4.0.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $('.sidenav').sidenav();
+        });
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
+
+</html>
