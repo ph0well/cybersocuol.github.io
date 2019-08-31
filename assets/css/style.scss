@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+a {
+    text-decoration: none; 
+    decoration: none;  
+}
 .btn-discord .icon {
   opacity: 0.6;
   background: url("../images/discord.png") 0 0 no-repeat;
