@@ -4,5 +4,5 @@ description: One place for all your security needs.
 discord_url: https://discordapp.com/invite/p6qGd3D
 liverpoolguild_url: https://www.liverpoolguild.org/groups/cyber-security
 resources_url: https://www.cybersoc.cf/resources
-gems:
-  - jekyll-redirect-from
+plugins:
+  - jekyll-seo-tag
