@@ -1,6 +1,11 @@
+# Freshers 2019/20
 
-# Welcome Freshers of 19/20! - (31/08/19)
-Join CyberSoc for only £3 cheaper then ever before [right here and right now](https://www.liverpoolguild.org/groups/cyber-security) meet like minded people, experience thrilling CTFs and other challenges prepared exclusively for you and your team. No prior experience required, everybody is welcome.
+[Join us today for £3](https://www.liverpoolguild.org/groups/cyber-security) and meet a supportive,like minded community who can help you to experience everything we offer,from thrilling CTFs to one of a kind talks from industry leaders and everything in between.
 
-For more information please contact CyberSoc comittee on [discord](https://www.invite.gg/CyberSoc
-), we hope to see you soon.
+No prior experience is required - our founders are noobs themselves - just an interest in security and a willingness to learn!
+
+If you'd like more information or have some questions then you can get in touch with us here:
+
+[Discord](https://www.invite.gg/cybersoc)
+[Twitter](https://twitter.com/CyberSocUoL)
+[Email](mailto:cybersecurity@society.liverpoolguild.org)
