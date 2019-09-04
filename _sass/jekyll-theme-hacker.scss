@@ -3,7 +3,6 @@
 
 $body-background: $cod-grey !default;
 $body-foreground: $gallery !default;
-$header: $conifer !default;
 $blockquote-color: $silver-chalice !default;
 $blockquote-border: $dove-grey !default;
 
@@ -58,7 +57,7 @@ header h1 {
   margin: 0 0 0 -40px;
   font-weight: bold;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: $conifer;//$header;
+  color: #68ff8b;//$header;
   margin: 0 0 5px 0;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
@@ -228,7 +227,7 @@ hr {
 */
 
 a {
-  color: #63c0f5;
+  color: #6fe046;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
