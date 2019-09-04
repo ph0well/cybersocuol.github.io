@@ -17,10 +17,17 @@ body {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 /* footer */
-#page-container {
-  position: relative;
-  min-height: 100vh;
+#footer {
+  height: 50px; /* the footer's total height */
 }
+
+#footer-content {
+  background-color: #f3e5f5;
+  border: 1px solid #ab47bc;
+  height: 32px; /* height + top/bottom paddding + top/bottom border must add up to footer height */
+  padding: 8px;
+}
+
 
 #content-wrap {
   padding-bottom: 2.5rem;    /* Footer height */
