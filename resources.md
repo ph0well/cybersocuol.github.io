@@ -10,7 +10,7 @@
 [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
 
 # Vulnerable boxes / CTFs
-[OverTheWire](https://overthewire.org/wargames/) |
-[TryHackMe](https://tryhackme.com/dashboard) |
-[Vulnhub](https://www.vulnhub.com/) |
-[HTB](https://www.hackthebox.eu/home)
+[Over The Wire](https://overthewire.org/wargames/) |
+[Try Hack Me](https://tryhackme.com/dashboard) |
+[Vuln Hub](https://www.vulnhub.com/) |
+[Hack The Box](https://www.hackthebox.eu/home)
