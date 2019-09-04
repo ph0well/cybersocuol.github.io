@@ -1,5 +1,5 @@
 # Hall of Fame
 
-| CTF | Winner | Points | Date | 
+| Winner | CTF | Points | Date | 
 |:----|:-------|:-------|:-----|
-| Yoda's Coctail | Perry Lawler | 26% | 04/08/19 |
+| Perry Lawler | Yoda's Coctail | 26% | 04/08/19 |
