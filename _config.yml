@@ -6,3 +6,11 @@ discord_url: https://discordapp.com/invite/p6qGd3D
 liverpoolguild_url: https://www.liverpoolguild.org/groups/cyber-security
 resources_url: https://www.cybersoc.cf/resources.html
 twitter_url: https://twitter.com/cybersocuol
+seo:
+  name: CyberSoc
+  type: Organization
+  links: 
+  - https://utscyber.org/
+  - https://www.subu.org.uk/organisation/cybersecuritysociety/
+  - https://www.susu.org/
+  - http://cybersoc.soc.srcf.net/
