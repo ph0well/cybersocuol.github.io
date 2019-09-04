@@ -3,5 +3,5 @@ We’re Liverpool Cyber Security society known as CyberSoc, the award winning so
 
 | Year | President    | Vice-President    | Events and Sponsorships | Treasurer | Secretary |
 |:-----|:-------------|:------------------|:------------------------|:----------|:----------|
-| 19/20 | Andrew Lawler | Perry Howell | Michal Anisimow | Tim Fairhurst | Mahir Hussain-md |
-| 18/19 | Andrew Lawler | Perry Howell  | XXXXXXXXX | XXXXXXXXXXXXXX | Brandon XXXX |
+| 19/20 | Andrew L. | Perry H. | Michal A. | Tim F. | Mahir H. |
+| 18/19 | Andrew L. | Perry H.  | XXXXXXXXX | XXXXXXXXXXXXXX | Brandon XXXX |
