@@ -4,6 +4,7 @@
 No prior experience is required,just an interest in security and a willingness to learn!
 
 If you'd like more information or have some questions then you can get in touch with us here:
+
 [Discord](https://discordapp.com/invite/p6qGd3D) |
 [Twitter](https://twitter.com/CyberSocUoL) |
 [Email](mailto:cybersecurity@society.liverpoolguild.org)
