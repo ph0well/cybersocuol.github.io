@@ -3,7 +3,7 @@
 
 $body-background: $cod-grey !default;
 $body-foreground: $gallery !default;
-$header: $conifer #68a7ff;
+$header: $conifer !default;
 $blockquote-color: $silver-chalice !default;
 $blockquote-border: $dove-grey !default;
 
@@ -171,7 +171,7 @@ table {
 
 th {
   text-align: left;
-  border-bottom: 1px dashed #68a7ff;
+  border-bottom: 1px dashed #b5e853;
   padding: 5px 10px;
 }
 
@@ -182,7 +182,7 @@ td {
 hr {
   height: 0;
   border: 0;
-  border-bottom: 1px dashed #68a7ff;
+  border-bottom: 1px dashed #b5e853;
   color: #b5e853;
 }
 
@@ -218,11 +218,11 @@ hr {
   float: left;
 }
 
-/*.btn-github .icon {
+.btn-github .icon {
   opacity: 0.6;
   background: url("../images/blacktocat.png") 0 0 no-repeat;
 }
-*/
+
 /* Links
    a, a:hover, a:visited
 */
