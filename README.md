@@ -1,4 +1,4 @@
-# Freshers 2019
+# Freshers 2019/20
 
 [Join us today for £3](https://www.liverpoolguild.org/groups/cyber-security) and meet a supportive,like minded community who can help you to experience everything we offer,from thrilling CTFs to one of a kind talks from industry leaders and everything in between.
 
@@ -8,4 +8,4 @@ If you'd like more information or have some questions then you can get in touch 
 
 [Discord](https://www.invite.gg/cybersoc) |
 [Twitter](https://twitter.com/CyberSocUoL) |
-[Email](mailto:cybersecurity@society.liverpoolguild.org) |
+[Email](mailto:cybersecurity@society.liverpoolguild.org)
