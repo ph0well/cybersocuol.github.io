@@ -1,2 +1,7 @@
 # Nice try
 # WW91J3JlIHRoZSBvbmUgY29uc3RhbnQgaW4gYSBzZWEgb2YgdmFyaWFibGVzLg==
+User-Agent: *
+Disallow: 
+Allow: /resources
+
+Sitemap: https://www.cybersoc.cf/sitemap.xml
