@@ -1,5 +1,5 @@
 ### Test
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](./assets/images/20190925/20190925_WelcomeFreshers.jpg)
 
 # Freshers 2019/20
 [Join us today for £3](https://www.liverpoolguild.org/groups/cyber-security) and meet a supportive, like minded community who can help you to experience everything we offer, from thrilling CTFs to one of a kind talks from industry leaders and everything in between.
