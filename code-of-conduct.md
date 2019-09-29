@@ -19,8 +19,6 @@
 
 6. Do not harass others. In general, if someone asks you to stop something, then stop. When we disagree, try to understand why. Differences of opinion and disagreements are mostly unavoidable. What is important is that we resolve disagreements and differing views constructively.
 
-7. Our differences can be our strengths. We can find strength in diversity. Different people have different perspectives on issues, and that can be valuable for solving problems or generating new ideas. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that we all make mistakes, and blaming each other doesn’t get us anywhere.
-
-Instead, focus on resolving issues and learning from mistakes.
+7. Our differences can be our strengths. We can find strength in diversity. Different people have different perspectives on issues, and that can be valuable for solving problems or generating new ideas. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that we all make mistakes, and blaming each other doesn’t get us anywhere. Instead, focus on resolving issues and learning from mistakes.
 
 In an event of breaking the law/ToS at University of Liverpool you will be a subject to disciplinary/legal action where police may be involved.
