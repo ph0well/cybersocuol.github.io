@@ -9,7 +9,13 @@
 
 4. Be respectful. We won't all agree all the time, but disagreement is no excuse for disrespectful behavior. We will all experience frustration from time to time, but we cannot allow that frustration to become personal attacks. An environment where people feel uncomfortable or threatened is not a productive or creative one.
 
-5. Choose your words carefully. Always conduct yourself professionally. Be kind to others. Do not insult or put down others. Harassment and exclusionary behavior aren't acceptable. This includes, but is not limited to: - Threats of violence. - Discriminatory jokes and language. - Sharing sexually explicit or violent material via electronic devices or other means. - Personal insults, especially those using racist or sexist terms. - Unwelcome sexual attention. - Advocating for, or encouraging, any of the above behavior.
+5. Choose your words carefully. Always conduct yourself professionally. Be kind to others. Do not insult or put down others. Harassment and exclusionary behavior aren't acceptable. This includes, but is not limited to: 
+- Threats of violence. 
+- Discriminatory jokes and language. 
+- Sharing sexually explicit or violent material via electronic devices or other means. 
+- Personal insults, especially those using racist or sexist terms. 
+- Unwelcome sexual attention. 
+- Advocating for, or encouraging, any of the above behavior.
 
 6. Do not harass others. In general, if someone asks you to stop something, then stop. When we disagree, try to understand why. Differences of opinion and disagreements are mostly unavoidable. What is important is that we resolve disagreements and differing views constructively.
 
