@@ -2,7 +2,7 @@
 
 0. Anything we teach you is for educational purposes only! __You are responsible for your actions__,we do not condone any behaviour which violates university regulations or the law
 
-1. Be patient and courteous. Treat everyone the way you would want to be treated with respect.
+1. Be patient and courteous. Treat everyone the way you would want to be treated with respect and kidness.
 
 2. Be inclusive. We welcome and support people of all backgrounds and identities. This includes, but is not limited to members of any sexual orientation, gender identity and expression, race, ethnicity, culture, national origin, social and economic class, educational level, color, immigration status, sex, age, size, family status, political belief, religion, and mental and physical ability.
 
