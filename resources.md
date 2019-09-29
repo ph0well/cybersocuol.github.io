@@ -1,5 +1,5 @@
 # Presentations / Workshops
-[Coming soon](#)
+[Fresher's session 25/09/19](https://drive.google.com/open?id=1EjH3fUwpRcj9CamOM_03YdpY5_DNAvSS) 
 
 # Learning resources
 [Immersive Labs](https://immersivelabs.online/signin) |
