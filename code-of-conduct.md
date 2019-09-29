@@ -22,4 +22,6 @@
 
 7. Our differences can be our strengths. We can find strength in diversity. Different people have different perspectives on issues, and that can be valuable for solving problems or generating new ideas. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that we all make mistakes, and blaming each other doesn’t get us anywhere. Instead, focus on resolving issues and learning from mistakes.
 
+
+
 ###### In an event of breaking the law/ToS at University of Liverpool you will be a subject to disciplinary/legal action where police may be involved.
