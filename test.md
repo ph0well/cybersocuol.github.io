@@ -1,4 +1,4 @@
-# Events
+# Upcoming Events
 
 | Day | Date | Topic | 
 |:----------|:--------------|:-----------------|
