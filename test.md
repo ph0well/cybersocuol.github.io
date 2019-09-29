@@ -1,3 +1,10 @@
+# Hall of Fame
+
+| Day | Date | Topic | 
+|:-------|:---------|:-----|
+| Wednesday | (October 2nd) | Web Exploitation |
+
+
 # Events
 | Day | Date | Topic |
 |:----|:-----|:------|
