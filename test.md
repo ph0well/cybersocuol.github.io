@@ -7,7 +7,7 @@
 # Events
 
 | Day | Date | Topic | 
-|:-------|:---------|:-----|
+|:----------|:--------------|:-----------------|
 | Wednesday | (October 2nd) | Web Exploitation |
 | Wednesday | (October 9th) | Networking and Forensics |
 | Wednesday | (October 16th) | Reverse Engineering |
