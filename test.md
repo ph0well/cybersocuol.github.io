@@ -1,9 +1,11 @@
 # Events
-Wednesday (October 2nd) Web Exploitation
-Wednesday (October 9th) Networking and Forensics
-Wednesday (October 16th) Reverse Engineering
-Wednesday (October 23rd) CTF Fundamentals and Practice
-** Sunday (October 26th) HackBack CTF **
+Day | Date | | Topic
+--|--|--
+Wednesday | (October 2nd) | Web Exploitation
+Wednesday | (October 9th) | Networking and Forensics
+Wednesday | (October 16th) | Reverse Engineering
+Wednesday | (October 23rd) | CTF Fundamentals and Practice
+__ Sunday | (October 26th) | HackBack CTF __
 # Freshers 2019/20
 [Join us today for £3](https://www.liverpoolguild.org/groups/cyber-security) and meet a supportive, like minded community who can help you to experience everything we offer, from thrilling CTFs to one of a kind talks from industry leaders and everything in between.
 
