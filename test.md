@@ -4,6 +4,16 @@
 |:-------|:---------|:-----|
 | Wednesday | (October 2nd) | Web Exploitation |
 
+# Events
+
+| Day | Date | Topic | 
+|:-------|:---------|:-----|
+| Wednesday | (October 2nd) | Web Exploitation |
+| Wednesday | (October 9th) | Networking and Forensics |
+| Wednesday | (October 16th) | Reverse Engineering |
+| Wednesday | (October 23rd) | CTF Fundamentals and Practice|
+| __Sunday__ | __(October 26th)__ | __HackBack CTF__ |
+
 
 # Events
 | Day | Date | Topic |
