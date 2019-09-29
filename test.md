@@ -1,6 +1,6 @@
 # Upcoming Events
 
-| Day | Date | Topic | 
+| Topic | Day | Date | 
 |:-----------------|:----------|:--------------|
 | Web Exploitation | Wednesday | (October 2nd) |
 | Networking and Forensics| Wednesday | (October 9th) |
