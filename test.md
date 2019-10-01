@@ -1,7 +1,7 @@
 # Upcoming Events
 
 | Topic | Date | Location
-|:-----------------|:----------|:--------------|:-----------|
+|:-----------------|:----------|:-----------|
 | Web Exploitation | Wednesday @ 13:30 (October 2nd) | N/A |
 | Networking and Forensics| Wednesday @ 13:30 (October 9th) | N/A |
 | Reverse Engineering | Wednesday @ 13:30 (October 16th) | N/A |
