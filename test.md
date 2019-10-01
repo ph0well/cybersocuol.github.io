@@ -6,7 +6,7 @@
 | Networking and Forensics| Wednesday @ 13:30 (October 9th) | N/A |
 | Reverse Engineering | Wednesday @ 13:30 (October 16th) | N/A |
 | CTF Fundamentals and Practice | Wednesday @ 13:30 (October 23rd) | N/A |
-| __HackBack CTF | Sunday @ 9:55 (October 26th)  | N/A__ |
+| __HackBack CTF__ | __Sunday @ 9:55 (October 26th)__  | __N/A__ |
 
 # Freshers 2019/20
 [Join us today for £3](https://www.liverpoolguild.org/groups/cyber-security) and meet a supportive, like minded community who can help you to experience everything we offer, from thrilling CTFs to one of a kind talks from industry leaders and everything in between.
