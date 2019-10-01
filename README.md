@@ -1,12 +1,12 @@
 # Upcoming Events
 
-| Topic | Day | Date | 
-|:-----------------|:----------|:--------------|
-| Web Exploitation | Wednesday | (October 2nd) |
-| Networking and Forensics| Wednesday | (October 9th) |
-| Reverse Engineering | Wednesday | (October 16th) |
-| CTF Fundamentals and Practice | Wednesday | (October 23rd) |
-| __HackBack CTF__ | __Sunday__ | __(October 26th)__ |
+| Topic | Date | Location
+|:-----------------|:----------|:-----------|
+| Web Exploitation | Wednesday @ 14:00 (October 2nd) | ELEC-201 (E1) upstairs in the (EEE) |
+| Networking and Forensics| Wednesday @ 14:00 (October 9th) | Mandela room (guild) |
+| Reverse Engineering | Wednesday @ 14:00 (October 16th) | Elizabeth Gidney room (guild) |
+| CTF Fundamentals and Practice | Wednesday @ 14:00 (October 23rd) | ELEC-201 (E1) upstairs in the (EEE) |
+| __HackBack CTF__ | __Sunday @ 10:00 (October 26th)__  | __Elizabeth Gidney room (guild)__ |
 
 # Freshers 2019/20
 [Join us today for £3](https://www.liverpoolguild.org/groups/cyber-security) and meet a supportive, like minded community who can help you to experience everything we offer, from thrilling CTFs to one of a kind talks from industry leaders and everything in between.
