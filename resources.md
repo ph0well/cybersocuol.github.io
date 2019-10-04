@@ -1,5 +1,6 @@
 # Presentations / Workshops
-[Fresher's session 25/09/19](https://drive.google.com/open?id=1EjH3fUwpRcj9CamOM_03YdpY5_DNAvSS) 
+[Fresher's session 2019](https://drive.google.com/open?id=1EjH3fUwpRcj9CamOM_03YdpY5_DNAvSS) | 
+[Web exploitation 2019](https://drive.google.com/file/d/18t87wjQnJvos3y3Aq0zj9XNUVgfcFknQ/view?usp=sharing) |
 
 # Learning resources
 [Immersive Labs](https://immersivelabs.online/signin) |
@@ -13,4 +14,10 @@
 [Over The Wire](https://overthewire.org/wargames/) |
 [Try Hack Me](https://tryhackme.com/dashboard) |
 [Vuln Hub](https://www.vulnhub.com/) |
-[Hack The Box](https://www.hackthebox.eu/home)
+[Hack The Box](https://www.hackthebox.eu/home) |
+[CTF Time](https://ctftime.org/event/list/upcoming) |
+[CSAW CTF](https://365.csaw.io/) |
+[Defcon CTFs](https://ctftime.org/ctf/1/) |
+[Cryptopals](https://cryptopals.com/) |
+[IO Wargame](https://io.netgarage.org/) |
+[FlareOn CTFs](http://flare-on.com/) |
