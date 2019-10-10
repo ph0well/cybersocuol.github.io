@@ -1,6 +1,7 @@
 # Presentations / Workshops
 [Fresher's session 2019](https://drive.google.com/open?id=1EjH3fUwpRcj9CamOM_03YdpY5_DNAvSS) | 
 [Web exploitation 2019](https://drive.google.com/file/d/18t87wjQnJvos3y3Aq0zj9XNUVgfcFknQ/view?usp=sharing) |
+[Networking and Forensics 2019](https://drive.google.com/file/d/1BgcjrWAFEt7pOqRURU_PdbZXqO0BizK6/view?usp=sharing) |
 
 # Learning resources
 [Immersive Labs](https://immersivelabs.online/signin) |
